@@ -1,0 +1,18 @@
+.icon-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon-row_icon {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.icon-row_icon i {
+  font-size: 35px;
+}
+
+.icon-row_icon span {
+  margin-top: 15px;
+}
